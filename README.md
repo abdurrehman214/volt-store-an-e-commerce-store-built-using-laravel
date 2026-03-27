@@ -20,11 +20,11 @@ Welcome to **VoltStore**, a modern and scalable e-commerce platform built using 
 
 ### 📸 Screenshots
 
-![Preview 1](https://github.com/abdurrehman214/volt-store-an-e-commerce-store-built-using-laravel/blob/main/show3%20\(1\).webp)
+![Preview 1](https://github.com/abdurrehman214/volt-store-an-e-commerce-store-built-using-laravel/blob/main/show3.webp)
 
-![Preview 2](https://github.com/abdurrehman214/volt-store-an-e-commerce-store-built-using-laravel/blob/main/show3%20\(1\).webp)
+![Preview 2](https://github.com/abdurrehman214/volt-store-an-e-commerce-store-built-using-laravel/blob/main/show2.webp)
 
-![Preview 3](https://github.com/abdurrehman214/volt-store-an-e-commerce-store-built-using-laravel/blob/main/show3%20\(2\).webp)
+![Preview 3](https://github.com/abdurrehman214/volt-store-an-e-commerce-store-built-using-laravel/blob/main/show1.webp)
 
 ---
 
